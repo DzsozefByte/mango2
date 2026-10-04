@@ -1,0 +1,11 @@
+Set-ExecutionPolicy RemoteSigned
+
+express mysql2 pool example oneuptime express.js
+
+BACKEND:
+    npx express-generator backend
+
+
+FRONTEND
+    npm create vite@latest frontend -- --template react
+
